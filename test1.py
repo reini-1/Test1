@@ -1,6 +1,6 @@
 import testunit
 
-print "Hallo world"
+print "Hallo user"
 testunit.PrintHalloWorld()
 testunit.PrintHalloUser()
 
